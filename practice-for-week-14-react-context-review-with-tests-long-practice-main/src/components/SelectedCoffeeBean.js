@@ -1,9 +1,9 @@
-import { CoffeeContext, useCoffeeContext } from "../context/CoffeeContext"
-import { useEffect, useState, useContext } from 'react';
-import { useParams } from 'react-router-dom'
+import { useCoffeeContext } from "../context/CoffeeContext"
+// import { useEffect, useState, useContext } from 'react';
+// import { useParams } from 'react-router-dom'
 
 const SelectedCoffeeBean = () => {
-  console.log("Rendering...")
+  // console.log("Rendering...")
   
   // const [data, setData] = useState([]);
   // const { coffeeName } = useParams();
